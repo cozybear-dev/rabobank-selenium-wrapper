@@ -1,1 +1,1 @@
-Tinkering around with Rabobank and Selenium
+Tinkering around with Rabobank and Selenium, as Rabobank does not offer any useful official API for consumers.
